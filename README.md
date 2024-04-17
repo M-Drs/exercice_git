@@ -30,4 +30,6 @@ git pull: Met à jour votre répertoire de travail local avec les modifications 
 
 git push: Envoie vos commits locaux vers le dépôt distant. Cela met à jour le dépôt distant avec vos modifications locales. Avant de pousser, assurez-vous d'avoir d'abord récupéré les derniers changements avec git pull pour éviter les conflits de fusion.
 
-
+  
+# exercice_git
+#Les 5 meilleures commandes git : git add, git commit. Git branch et git switch. git push
