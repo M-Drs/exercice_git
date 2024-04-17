@@ -1,6 +1,14 @@
 
 # exercice_git
 
+git commit : crée une sauvegarde a un moment du projet
+git branch : visualise les branches
+git log : liste l'historique des commits
+git init: transforme le dossier courant en repo git
+git add : ajoute un fichier dans le commit
+
+# exercice_git
+
 ## Notes de Arnaud
 
 * L'utilisation de git fait appel aux commandes suivantes (notamment mais pas que):
@@ -21,4 +29,5 @@ git commit -m "Message de commit": Crée un nouveau commit avec les modification
 git pull: Met à jour votre répertoire de travail local avec les modifications de la branche distante. Cela récupère les dernières modifications du dépôt distant (comme GitHub) et les fusionne avec votre branche actuelle.
 
 git push: Envoie vos commits locaux vers le dépôt distant. Cela met à jour le dépôt distant avec vos modifications locales. Avant de pousser, assurez-vous d'avoir d'abord récupéré les derniers changements avec git pull pour éviter les conflits de fusion.
+
 
